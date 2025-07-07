@@ -5,7 +5,7 @@ This project implements various clustering techniques to help an international a
 
 ## Data
 The project uses Country-data.csv which contains various socio-economic and health indicators for different countries, including:
-- GDP
+- GDPP
 - Income indicators
 - Child mortality rates
 - Health metrics
@@ -25,11 +25,12 @@ The analysis employs multiple unsupervised learning techniques:
 
 ## Methodology
 1. Data preprocessing and exploration
-2. Feature scaling and normalization
+2. Feature Engineering : combining the attributes into 3 main categories [health, finance, trade] scaling and normalization
 3. PCA implementation for dimensionality reduction
-4. Application of multiple clustering techniques
-5. Cluster analysis and interpretation
-6. Country categorization based on aid priority
+4. I created 2 datasets : the first contains 3 attributes : [health, finance, trade] while the 2nd contains the columns left after applying PCA (in our case 3 colmns are left)
+5. Application of multiple clustering techniques on the 2 datasets : k-means, dbscan, hierarchical clustering
+6. Cluster analysis and interpretation
+7. Country categorization based on aid priority
 
 ## Tools Used
 - Python
