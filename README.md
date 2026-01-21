@@ -1,10 +1,8 @@
-# Unsupervised Learning Projects
+# A collection of projects demonstrating core unsupervised learning techniques, including clustering, dimensionality reduction, and recommendation systems
 
 Development time: August 2024
 
-This repository contains a collection of projects demonstrating core unsupervised learning techniques, including clustering, dimensionality reduction, and recommendation systems.
-
-The projects cover the full workflow—from exploratory data analysis (EDA) and data preprocessing to training unsupervised models and leveraging their outputs for insights and optimization.
+These projects cover the full workflow, from exploratory data analysis (EDA) and data preprocessing to implementing and training unsupervised models and leveraging their outputs for insights and optimization.
 
 ## Projects Overview
 
