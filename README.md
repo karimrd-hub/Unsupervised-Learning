@@ -1,6 +1,6 @@
 # Unsupervised Learning Projects
 
-** Development time: ** August 2024
+Development time: August 2024
 
 This repository contains a collection of projects demonstrating core unsupervised learning techniques, including clustering, dimensionality reduction, and recommendation systems.
 
